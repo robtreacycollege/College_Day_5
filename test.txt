@@ -1,0 +1,18 @@
+**********
+
+
+boot2docker ip
+
+ll
+
+*********
+
+also ran curl $(boot2docker ip):8080 displaying page in prompt
+
+
+crtl z (suspend) services in order to get onto container to amend
+bg 1 (run in background)
+
+sudo apt-get install vim (install vim)
+
+sudo apt-get install postfix
